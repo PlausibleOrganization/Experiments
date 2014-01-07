@@ -1,0 +1,22 @@
+[
+  {
+    "yes": true,
+    "id": 0
+  },
+  {
+    "yes": false,
+    "id": 1
+  },
+  {
+    "yes": true,
+    "id": 2
+  },
+  {
+    "yes": false,
+    "id": 3
+  },
+  {
+    "yes": true,
+    "id": 4
+  }
+]

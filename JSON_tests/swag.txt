@@ -1,0 +1,5 @@
+{
+  "Swag": 1,
+  "Yolo": 3.1415927410125732,
+  "Yoloocats": false
+}
